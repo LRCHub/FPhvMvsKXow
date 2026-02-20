@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "LOVESONG",
+  "base_artist": "Q.I.S.",
+  "createdAt": "2026-02-20T08:18:08.759248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lovesong",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/01_Lovesong_Adele.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Every Lovesong",
+      "artist": "Le Sport",
+      "has_synced": false,
+      "path": "select/02_Every_Lovesong_Le_Sport.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lovesong",
+      "artist": "Sylver",
+      "has_synced": true,
+      "path": "select/03_Lovesong_Sylver.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lovesong",
+      "artist": "Abbie Gale",
+      "has_synced": true,
+      "path": "select/04_Lovesong_Abbie_Gale.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovesong (Original Demo)",
+      "artist": "Halou",
+      "has_synced": false,
+      "path": "select/05_Lovesong_(Original_Demo)_Halou.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lovesong",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/06_Lovesong_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lovesong",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/07_Lovesong_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovesong (Acoustic)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/08_Lovesong_(Acoustic)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lovesong - Extended Mix",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/09_Lovesong_-_Extended_Mix_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovesong (Extended Mix)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/10_Lovesong_(Extended_Mix)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lovesong - Band Instrumental Demo",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/11_Lovesong_-_Band_Instrumental_Demo_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lovesong (Instrumental Band Demo)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/12_Lovesong_(Instrumental_Band_Demo)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lovesong (Single Mix)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/13_Lovesong_(Single_Mix)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Not a Lovesong",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/14_Not_a_Lovesong_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Teenage Lovesong",
+      "artist": "Rilo Kiley",
+      "has_synced": false,
+      "path": "select/15_Teenage_Lovesong_Rilo_Kiley.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Perfect Lovesong",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/16_Perfect_Lovesong_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Perfect Lovesong",
+      "artist": "The Divine Comedy",
+      "has_synced": false,
+      "path": "select/17_Perfect_Lovesong_The_Divine_Comedy.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lovesong",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/18_Lovesong_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lovesong",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/19_Lovesong_The_Cure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVESONG",
+      "artist": "Q.I.S.",
+      "has_synced": false,
+      "path": "select/pl_01_LOVESONG_Q.I.S..txt"
+    }
+  ]
+}
